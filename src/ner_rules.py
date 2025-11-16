@@ -9,7 +9,7 @@ from .lexicons import (
     load_product_list,
 )
 
-# Leksikonlarni yuklab olamiz
+# Leksikonlarni yuklab olamiz...
 PERSON_LIST = load_person_list()
 LOC_LIST = load_location_list()
 POSITION_LIST = load_position_list()
@@ -217,3 +217,4 @@ class NERRules:
         # start bo'yicha sort qilamiz
         ents = sorted(ents, key=lambda x: x["start"])
         return ents
+
