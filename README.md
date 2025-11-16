@@ -57,8 +57,50 @@ curl -X POST "http://127.0.0.1:8000/analyze/full" \
 Endpoints
 
 POST /analyze/rules – rule-based NER + lexicon sentiment only
-
 POST /analyze/full – ML sentiment + rule-based NER + fusion
 
-Author: Bobur Saidov
+Example response (shortened):
+
+{
+  "text_original": "Urganch davlat universiteti rektori Ali 2024 yil Toshkentga safar qildi.",
+  "sentiment": "positive",
+  "ml_label": "positive",
+  "entities": [
+    {"text": "Urganch", "type": "Location", "source": "rules"},
+    {"text": "Urganch davlat universiteti", "type": "Organization", "source": "ml+rules"},
+    {"text": "Ali", "type": "Person", "source": "ml+rules"},
+    {"text": "2024 yil", "type": "Date", "source": "ml+rules"},
+    {"text": "Toshkentga", "type": "Location", "source": "rules"}
+  ],
+  "source": "hybrid_mlSent+rulesNER"
+}
+
+Training scripts
+
+All training scripts are located in the training/ directory:
+
+train_ner_silver.py – train NER model on silver data
+
+train_sentiment.py – train DistilBERT sentiment model
+
+generate_synthetic_ner_data.py – create synthetic NER examples
+
+prepare_ner_silver.py – preprocessing and silver-label pipeline
+
+These scripts are provided for reproducibility of the experiments described in the paper.
+
+
+Key: README bo‘ldi – retsenzent ham, boshqa dasturchi ham tushunadi.
+
+---
+
+## 2️⃣ requirements.txt ni tayyorlash
+
+Loyihani qaysi env’da o‘qitgan bo‘lsangiz, o‘sha **Anaconda Prompt**da:
+
+```bash
+cd "L:\Hybrid model"   # yoki clone qilingan papkangiz
+pip freeze > requirements.txt
+
+Author: Bobur Saidov Rashidovich tel:+998942326227
 Contact: saidovboburbek9629@gmail.com
