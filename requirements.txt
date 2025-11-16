@@ -6,3 +6,6 @@ pydantic
 numpy
 pandas
 scikit-learn
+
+pip freeze > requirements.txt
+
