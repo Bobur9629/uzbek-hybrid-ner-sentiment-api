@@ -1,0 +1,100 @@
+rektor
+prorektor
+kafedra mudiri
+dekan
+prodekan
+dotsent
+professor
+assistent
+ilmiy xodim
+katta ilmiy xodim
+laboratoriya mudiri
+maktab direktori
+o‘rinbosar direktor
+o‘qituvchi
+tarbiyachi
+metodist
+akademik
+ilmiy rahbar
+ilmiy kotib
+bosh muhandis
+bosh direktor
+ijrochi direktor
+boshqaruv raisi
+bosh hisobchi
+hisobchi
+marketing bo‘limi boshlig‘i
+HR menejer
+loyiha menejeri
+bo‘lim boshlig‘i
+smena boshlig‘i
+bosh shifokor
+shifokor
+hamshira
+psixolog
+advokat
+yurist
+sudya
+prokuror
+notarius
+tahririyat bosh muharriri
+muxbir
+jurnalist
+PR menejer
+matbuot kotibi
+sotuv bo‘limi boshlig‘i
+savdo vakili
+sotuv menejeri
+mijozlar bilan ishlash menejeri
+logistika menejeri
+ombor mudiri
+inspektor
+nazoratchi
+monitoring mutaxassisi
+IT direktori
+IT mutaxassisi
+dasturchi
+data-analitik
+tizim administratori
+tarmoq administratori
+texnik xodim
+trening menejeri
+kadrlar bo‘limi boshlig‘i
+kadrlar bo‘yicha inspektor
+moliyaviy direktor
+moliyachi
+investitsiya menejeri
+risk-menejer
+bank filiali direktori
+kredit bo‘limi boshlig‘i
+kassir
+loyiha koordinatori
+grant menejeri
+ilmiy loyiha koordinatori
+startup asoschisi
+CEO
+COO
+CFO
+CTO
+CMO
+product menejeri
+scrum master
+biznes analitik
+strategik rivojlanish direktori
+sifat nazorati bo‘limi boshlig‘i
+sifat menejeri
+kafolat xizmati mutaxassisi
+HR biznes hamkori
+mentor
+kurator
+edukatsion dastur koordinatori
+volontyorlar koordinatori
+jamoa yetakchisi
+xalqaro aloqalar bo‘limi boshlig‘i
+xalqaro loyiha menejeri
+delegatsiya rahbari
+bosh mutaxassis
+yetakchi mutaxassis
+katta mutaxassis
+maslahatchi
+mas’ul ijrochi

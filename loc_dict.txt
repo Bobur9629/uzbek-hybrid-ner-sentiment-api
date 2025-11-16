@@ -1,0 +1,414 @@
+Amudaryo
+Amudaryo tumani
+Andijon
+Andijon shahri
+Andijon tumani
+Andijon viloyati
+Angor
+Angor tumani
+Angren
+Angren shahri
+Arnasoy
+Arnasoy tumani
+Asaka
+Asaka tumani
+Baliqchi
+Baliqchi tumani
+Bandixon
+Bandixon tumani
+Baxmal
+Baxmal tumani
+Bekobod
+Bekobod shahri
+Bekobod tumani
+Bektemir  (Toshkent shahri)
+Bektemir tumani (Toshkent shahri)
+Beruniy
+Beruniy tumani
+Beshariq
+Beshariq tumani
+Bogʻdod
+Bogʻdod tumani
+Bogʻot
+Bogʻot tumani
+Boyovut
+Boyovut tumani
+Boysun
+Boysun tumani
+Boʻka
+Boʻka tumani
+Boʻston
+Boʻston tumani
+Boʻstonliq
+Boʻstonliq tumani
+Boʻzatov
+Boʻzatov tumani
+Buloqboshi
+Buloqboshi tumani
+Bulungʻur
+Bulungʻur tumani
+Buvayda
+Buvayda tumani
+Buxoro
+Buxoro shahri
+Buxoro tumani
+Buxoro viloyati
+Chilonzor  (Toshkent shahri)
+Chilonzor tumani (Toshkent shahri)
+Chimboy
+Chimboy tumani
+Chinoz
+Chinoz tumani
+Chirchiq
+Chirchiq shahri
+Chiroqchi
+Chiroqchi tumani
+Chortoq
+Chortoq tumani
+Chust
+Chust tumani
+Dangʻara
+Dangʻara tumani
+Dehqonobod
+Dehqonobod tumani
+Denov
+Denov tumani
+Doʻstlik
+Doʻstlik tumani
+Ellikqalʼa
+Ellikqalʼa tumani
+Fargʻona
+Fargʻona shahri
+Fargʻona tumani
+Fargʻona viloyati
+Forish
+Forish tumani
+Furqat
+Furqat tumani
+Guliston
+Guliston shahri
+Guliston tumani
+Gurlan
+Gurlan tumani
+Gʻallaorol
+Gʻallaorol tumani
+Gʻijduvon
+Gʻijduvon tumani
+Gʻozgʻon
+Gʻozgʻon shahri
+Gʻuzor
+Gʻuzor tumani
+Ishtixon
+Ishtixon tumani
+Izboskan
+Izboskan tumani
+Jalaquduq
+Jalaquduq tumani
+Jarqoʻrgʻon
+Jarqoʻrgʻon tumani
+Jizzax
+Jizzax shahri
+Jizzax viloyati
+Jomboy
+Jomboy tumani
+Jondor
+Jondor tumani
+Karmana
+Karmana tumani
+Kasbi
+Kasbi tumani
+Kattaqoʻrgʻon
+Kattaqoʻrgʻon shahri
+Kattaqoʻrgʻon tumani
+Kegeyli
+Kegeyli tumani
+Kitob
+Kitob tumani
+Kogon
+Kogon shahri
+Kogon tumani
+Konimex
+Konimex tumani
+Koson
+Koson tumani
+Kosonsoy
+Kosonsoy tumani
+Koʻkdala
+Koʻkdala tumani
+Margʻilon
+Margʻilon shahri
+Marhamat
+Marhamat tumani
+Mingbuloq
+Mingbuloq tumani
+Mirishkor
+Mirishkor tumani
+Mirobod  (Toshkent shahri)
+Mirobod tumani (Toshkent shahri)
+Mirzachoʻl
+Mirzachoʻl tumani
+Mirzaobod
+Mirzaobod tumani
+Mirzo Ulugʻbek  (Toshkent shahri)
+Mirzo Ulugʻbek tumani (Toshkent shahri)
+Moʻynoq
+Moʻynoq tumani
+Muborak
+Muborak tumani
+Muzrabot
+Muzrabot tumani
+Namangan
+Namangan shahri
+Namangan tumani
+Namangan viloyati
+Narpay
+Narpay tumani
+Navbahor
+Navbahor tumani
+Navoiy
+Navoiy shahri
+Navoiy viloyati
+Nishon
+Nishon tumani
+Norin
+Norin tumani
+Nukus
+Nukus shahri
+Nukus tumani
+Nurafshon
+Nurafshon shahri
+Nurobod
+Nurobod tumani
+Nurota
+Nurota tumani
+Ohangaron
+Ohangaron shahri
+Ohangaron tumani
+Olmaliq
+Olmaliq shahri
+Olmazor  (Toshkent shahri)
+Olmazor tumani (Toshkent shahri)
+Olot
+Olot tumani
+Oltiariq
+Oltiariq tumani
+Oltinkoʻl
+Oltinkoʻl tumani
+Oltinsoy
+Oltinsoy tumani
+Oqdaryo
+Oqdaryo tumani
+Oqoltin
+Oqoltin tumani
+Oqqoʻrgʻon
+Oqqoʻrgʻon tumani
+Oʻrtachirchiq
+Oʻrtachirchiq tumani
+Oʻzbekiston
+Oʻzbekiston tumani
+Parkent
+Parkent tumani
+Pastdargʻom
+Pastdargʻom tumani
+Paxtachi
+Paxtachi tumani
+Paxtakor
+Paxtakor tumani
+Paxtaobod
+Paxtaobod tumani
+Payariq
+Payariq tumani
+Peshku
+Peshku tumani
+Piskent
+Piskent tumani
+Pop
+Pop tumani
+Qamashi
+Qamashi tumani
+Qanlikoʻl
+Qanlikoʻl tumani
+Qarshi
+Qarshi shahri
+Qarshi tumani
+Qashqadaryo
+Qashqadaryo viloyati
+Qibray
+Qibray tumani
+Qiziltepa
+Qiziltepa tumani
+Qiziriq
+Qiziriq tumani
+Qorakoʻl
+Qorakoʻl tumani
+Qoraoʻzak
+Qoraoʻzak tumani
+Qoraqalpogʻiston
+Qoraqalpogʻiston Respublikasi
+Qorovulbozor
+Qorovulbozor tumani
+Qoʻngʻirot
+Qoʻngʻirot tumani
+Qoʻqon
+Qoʻqon shahri
+Qoʻrgʻontepa
+Qoʻrgʻontepa tumani
+Qoʻshkoʻpir
+Qoʻshkoʻpir tumani
+Qoʻshrabot
+Qoʻshrabot tumani
+Qoʻshtepa
+Qoʻshtepa tumani
+Qumqoʻrgʻon
+Qumqoʻrgʻon tumani
+Quva
+Quva tumani
+Quvasoy
+Quvasoy shahri
+Quyichirchiq
+Quyichirchiq tumani
+Rishton
+Rishton tumani
+Romitan
+Romitan tumani
+Samarqand
+Samarqand shahri
+Samarqand tumani
+Samarqand viloyati
+Sardoba
+Sardoba tumani
+Sariosiyo
+Sariosiyo tumani
+Sayxunobod
+Sayxunobod tumani
+Sergeli  (Toshkent shahri)
+Sergeli tumani (Toshkent shahri)
+Shahrisabz
+Shahrisabz shahri
+Shahrisabz tumani
+Shahrixon
+Shahrixon tumani
+Sharof Rashidov
+Sharof Rashidov tumani
+Shayxontohur  (Toshkent shahri)
+Shayxontohur tumani (Toshkent shahri)
+Sherobod
+Sherobod tumani
+Shirin
+Shirin shahri
+Shofirkon
+Shofirkon tumani
+Shovot
+Shovot tumani
+Shoʻrchi
+Shoʻrchi tumani
+Shumanay
+Shumanay tumani
+Sirdaryo
+Sirdaryo tumani
+Sirdaryo viloyati
+Soʻx
+Soʻx tumani
+Surxondaryo
+Surxondaryo viloyati
+Taxiatosh
+Taxiatosh tumani
+Taxtakoʻpir
+Taxtakoʻpir tumani
+Termiz
+Termiz shahri
+Termiz tumani
+Tomdi
+Tomdi tumani
+Toshkent
+Toshkent shahri
+Toshkent tumani
+Toshkent viloyati
+Toshloq
+Toshloq tumani
+Toyloq
+Toyloq tumani
+Toʻraqoʻrgʻon
+Toʻraqoʻrgʻon tumani
+Toʻrtkoʻl
+Toʻrtkoʻl tumani
+Tuproqqalʼa
+Tuproqqalʼa tumani
+Uchkoʻprik
+Uchkoʻprik tumani
+Uchqoʻrgʻon
+Uchqoʻrgʻon tumani
+Uchquduq
+Uchquduq tumani
+Uchtepa  (Toshkent shahri)
+Uchtepa tumani (Toshkent shahri)
+Ulugʻnor
+Ulugʻnor tumani
+Urganch
+Urganch shahri
+Urganch tumani
+Urgut
+Urgut tumani
+Uychi
+Uychi tumani
+Uzun
+Uzun tumani
+Vobkent
+Vobkent tumani
+Xatirchi
+Xatirchi tumani
+Xazorasp
+Xazorasp tumani
+Xiva
+Xiva shahri
+Xiva tumani
+Xonobod
+Xonobod shahri
+Xonqa
+Xonqa tumani
+Xorazm
+Xorazm viloyati
+Xovos
+Xovos tumani
+Xoʻjaobod
+Xoʻjaobod tumani
+Xoʻjayli
+Xoʻjayli tumani
+Yakkabogʻ
+Yakkabogʻ tumani
+Yakkasaroy  (Toshkent shahri)
+Yakkasaroy tumani (Toshkent shahri)
+Yangiariq
+Yangiariq tumani
+Yangibozor
+Yangibozor tumani
+Yangihayot  (Toshkent shahri)
+Yangihayot tumani (Toshkent shahri)
+Yangiobod
+Yangiobod tumani
+Yangiqoʻrgʻon
+Yangiqoʻrgʻon tumani
+Yangiyer
+Yangiyer shahri
+Yangiyoʻl
+Yangiyoʻl shahri
+Yangiyoʻl tumani
+Yashnobod  (Toshkent shahri)
+Yashnobod tumani (Toshkent shahri)
+Yozyovon
+Yozyovon tumani
+Yunusobod  (Toshkent shahri)
+Yunusobod tumani (Toshkent shahri)
+Yuqorichirchiq
+Yuqorichirchiq tumani
+Zafarobod
+Zafarobod tumani
+Zangiota
+Zangiota tumani
+Zarafshon
+Zarafshon shahri
+Zarbdor
+Zarbdor tumani
+Zomin
+Zomin tumani
+sabz

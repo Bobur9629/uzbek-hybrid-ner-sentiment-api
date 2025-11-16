@@ -1,0 +1,100 @@
+iPhone 15
+iPhone 14
+iPhone 13
+Samsung Galaxy S24
+Samsung Galaxy S23
+Samsung Galaxy A54
+Redmi Note 13
+Redmi Note 12
+Poco X6
+Poco F5
+Realme 11 Pro
+Honor 90
+Google Pixel 8
+Google Pixel 7a
+Nokia G21
+Asus Zenbook 14
+MacBook Air M2
+MacBook Pro 14
+Dell XPS 13
+Lenovo ThinkPad X1 Carbon
+HP Pavilion 15
+Acer Aspire 5
+Asus TUF Gaming
+PlayStation 5
+Xbox Series X
+Nintendo Switch
+Logitech G Pro klaviatura
+Logitech G Pro sichqonchasi
+Razer DeathAdder
+HyperX Cloud II garnitura
+Samsung 4K televizori
+LG OLED televizori
+Artel konditsioneri
+Artel kir yuvish mashinasi
+Artel sovutgichi
+Beko kir yuvish mashinasi
+Bosch idish yuvish mashinasi
+Candy changyutgich
+Dyson V11 changyutgich
+Philips elektr choynagi
+Coca-Cola 1.5L
+Pepsi 1.5L
+Fanta 1.5L
+Sprite 1.5L
+Nestle Pure Life suv
+Aqua Viva suv
+Asu mineral suv
+Chortoq mineral suvi
+Nescafe Classic qahva
+Jacobs Monarch qahva
+Ahmad Tea qora choy
+Greenfield yashil choy
+Lipton sariq choy
+Dilmah choyi
+President pishloq
+Milliy non mahsuloti
+Afsona shokoladi
+KitKat shokolad
+Snickers batonchasi
+Oreo pechenyesi
+Lays chipslari
+Pringles chipslari
+Choko Pie
+Nutella shokolad pastasi
+M&M’s konfetlari
+Orbit saqichi
+Dirol saqichi
+Colgate tish pastasi
+Blend-a-med tish pastasi
+Signal tish pastasi
+Dove sovuni
+Lux sovuni
+Palmolive dushi geli
+Head & Shoulders shampuni
+Pantene shampuni
+Clear shampuni
+Nivea kremi
+Garnier kremi
+Maybelline tush surmasi
+L’Oreal lab bo‘yog‘i
+Chevrolet Cobalt
+Chevrolet Gentra
+Chevrolet Malibu
+Chevrolet Onix
+Chevrolet Tracker
+Spark avtomobili
+Damas mikroavtobusi
+Hyundai Sonata
+Kia K5
+Toyota Camry
+UzAuto Motors ehtiyot qismi
+Ravon R4
+Yandex Go ilovasi
+Telegram dasturi
+Zoom dasturi
+Microsoft Office 365
+Windows 11 operatsion tizimi
+Ubuntu Linux distributivi
+Visual Studio Code
+PyCharm Professional
