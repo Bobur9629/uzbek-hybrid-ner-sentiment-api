@@ -1,17 +1,40 @@
 # Uzbek Hybrid NER + Sentiment API
 
-This repository contains a hybrid Uzbek-language NLP system that combines:
+Hybrid rule-based + transformer NER and sentiment analysis model for the Uzbek language with a simple FastAPI web service.
 
-- **Rule-based + lexicon-based NER**
-- **Transformer-based sentiment classifier (DistilBERT)**
-- A simple **FastAPI** web service
+This repository contains:
+- **Rule-based NER** (lexicon + patterns)
+- **Transformer-based NER** (XLM-RoBERTa fine-tuned on silver data)
+- **Transformer-based sentiment model** (DistilBERT for Uzbek)
+- **Lexicons and datasets** used for training
+- **FastAPI server** to expose the models as a REST API
 
-### Project structure
+## Project structure
 
-- `src/`  – core Python modules (NER rules, ML NER wrapper, sentiment model, preprocessing, fusion, FastAPI server)
-- `data/lexicons/` – dictionaries for persons, locations, organizations, positions, products, emojis, normalization pairs
-- `data/processed/` – cleaned sentiment dataset and silver NER corpora
-- `models/` – local trained models (not included in this repo, used only on the author's machine)
+```text
+.
+├── src/                    # Python package with all runtime code
+│   ├── server.py           # FastAPI app (entrypoint)
+│   ├── hybrid_model.py     # High-level hybrid model
+│   ├── ner_rules.py        # Rule-based NER
+│   ├── ner_ml.py           # ML NER wrapper
+│   ├── sentiment_ml.py     # ML sentiment wrapper
+│   ├── sentiment_lex.py    # Lexicon-based sentiment
+│   ├── preprocessing.py    # Text preprocessing utilities
+│   └── fusion.py           # Fusion of rules + ML
+│
+├── data/
+│   ├── lexicons/           # Person, location, product, emoji lexicons, etc.
+│   ├── processed/          # Cleaned training corpora (NER & sentiment)
+│   └── raw/                # Original raw Excel datasets
+│
+├── training/               # Scripts for training models
+│   ├── train_ner_silver.py
+│   ├── train_sentiment.py
+│   ├── generate_synthetic_ner_data.py
+│   └── prepare_ner_silver.py
+└── models/                 # Trained model weights (NER & sentiment)
+
 
 ### Installation
 
