@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Local data / models (katta fayllar)
+models/
+data/raw/
+*.xlsx~
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
