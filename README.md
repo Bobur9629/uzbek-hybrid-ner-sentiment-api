@@ -1,39 +1,42 @@
 # Uzbek Hybrid NER + Sentiment API
 
-Hybrid rule-based + transformer NER and sentiment analysis model for the Uzbek language with a simple FastAPI web service.
+Hybrid lexicon + entity-aware sentiment analysis pipeline for the Uzbek language with a simple FastAPI web service.
 
 This repository contains:
-- **Rule-based NER** (lexicon + patterns)
-- **Transformer-based NER** (XLM-RoBERTa fine-tuned on silver data)
-- **Transformer-based sentiment model** (DistilBERT for Uzbek)
-- **Lexicons and datasets** used for training
-- **FastAPI server** to expose the models as a REST API
+- **mBERT-based NER** for Uzbek named entities (e.g., PER/ORG/LOC/DATE/PROD)
+- **mBERT-based sentiment model** for three-way polarity classification (positive/negative/neutral)
+- **Lexicon-based sentiment cues** (emotion/emoji resources and auxiliary lexical signals)
+- **Hybrid fusion logic** that combines transformer representations with lexicon and entity-aware signals
+- **Training and preprocessing scripts** for reproducibility
+- **FastAPI server** to expose the pipeline as a REST API
 
 ## Project structure
 
 ```text
 .
-├── src/                    # Python package with all runtime code
+├── src/                    # Python package with runtime code
 │   ├── server.py           # FastAPI app (entrypoint)
-│   ├── hybrid_model.py     # High-level hybrid model
-│   ├── ner_rules.py        # Rule-based NER
-│   ├── ner_ml.py           # ML NER wrapper
-│   ├── sentiment_ml.py     # ML sentiment wrapper
-│   ├── sentiment_lex.py    # Lexicon-based sentiment
+│   ├── hybrid_model.py     # High-level hybrid pipeline
 │   ├── preprocessing.py    # Text preprocessing utilities
-│   └── fusion.py           # Fusion of rules + ML
+│   ├── fusion.py           # Fusion of lexicon + NER + transformer signals
+│   ├── ner_rules.py        # Optional rule/gazetteer-based helpers
+│   ├── ner_ml.py           # mBERT-based NER wrapper
+│   ├── sentiment_ml.py     # mBERT-based sentiment wrapper
+│   └── sentiment_lex.py    # Lexicon-based sentiment cues
 │
 ├── data/
-│   ├── lexicons/           # Person, location, product, emoji lexicons, etc.
-│   ├── processed/          # Cleaned training corpora (NER & sentiment)
-│   └── raw/                # Original raw Excel datasets
+│   ├── lexicons/           # Emotion lexicon, emoji polarity, gazetteers, etc.
+│   ├── processed/          # Cleaned corpora (NER & sentiment)
+│   └── raw/                # Original raw datasets (if applicable)
 │
-├── training/               # Scripts for training models
-│   ├── train_ner_silver.py
+├── training/               # Scripts for training and data preparation
+│   ├── train_ner.py
 │   ├── train_sentiment.py
-│   ├── generate_synthetic_ner_data.py
-│   └── prepare_ner_silver.py
+│   ├── generate_synthetic_data.py
+│   └── prepare_data.py
+│
 └── models/                 # Trained model weights (NER & sentiment)
+
 
 
 ### Installation
